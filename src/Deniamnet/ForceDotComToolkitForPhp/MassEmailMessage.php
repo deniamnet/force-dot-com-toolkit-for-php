@@ -1,4 +1,7 @@
-<?php namespace Deniamnet\ForceDotComToolkitForPhp;
+<?php
+
+namespace Deniamnet\ForceDotComToolkitForPhp;
+
 /*
  * Copyright (c) 2007, salesforce.com, inc.
  * All rights reserved.
